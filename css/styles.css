@@ -1,0 +1,25 @@
+.panel {
+  background-color: red;
+  width: 300px;
+  float: left;
+  margin: 40px;
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.panel:hover {
+  text-decoration: underline;
+}
+
+.panel1 {
+  background-color: blue;
+  width: 300px;
+}
+
+p, h1 {
+  text-align: center;
+}
+
+#flashcard-showing {
+  display: none;
+}
